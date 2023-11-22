@@ -1,6 +1,6 @@
 package entite;
 
-abstract class Reservation {
+public abstract class Reservation {
 	protected int jour;
 	protected int mois;
 	
